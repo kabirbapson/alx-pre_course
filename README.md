@@ -1,2 +1,1 @@
-always up_to_date
-daily
+always up_to_date 24/7
